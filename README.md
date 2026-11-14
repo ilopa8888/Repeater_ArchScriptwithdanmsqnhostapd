@@ -72,11 +72,3 @@ dnsmasq --test --conf-file=./config/dnsmasq-repeater.conf
 ```
 
 `hostapd` configuration validation may require a compatible wireless device and can attempt device initialization; do not treat a live AP test as a syntax-only check.
-
-## Suggested commit message
-
-Copy this subject if you add these files to a Git repository:
-
-```text
-feat(network): add configurable Linux Wi-Fi repeater setup
-```
